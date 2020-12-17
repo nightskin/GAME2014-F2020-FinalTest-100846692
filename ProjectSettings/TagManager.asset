@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathPlane
+  - Platforms
+  - Walls
+  - Ramps
+  - Fire
+  - Opossum
+  - Enemy
+  - Bullet
+  - Acorn
+  - Gem
+  - Moving Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Walls
+  - Ramps
+  - Enemy
+  - Player
+  - Bullet
+  - AI
+  - HealthBar
+  - Markers
+  - DeathPlane
+  - Acorn
+  - Gem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3575933999
+    locked: 0
